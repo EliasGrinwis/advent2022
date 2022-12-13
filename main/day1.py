@@ -1,3 +1,4 @@
+# ----------------------- PART1 -----------------------
 with open("inputs/day1.txt", "r") as myfile:
     data = myfile.read().splitlines()
 
